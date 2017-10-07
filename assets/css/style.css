@@ -1,0 +1,13 @@
+body {
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
+	border-color: #000000;
+	border-width: 2px;
+	border-style: solid;
+}
+
+h1,
+p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
